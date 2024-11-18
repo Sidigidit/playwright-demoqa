@@ -1,0 +1,7 @@
+{
+    "logout": "button#submit:has-text('Log out')",
+    "deleteAll": "button#submit:has-text('Delete All Books')",
+    "username": "#userName",
+    "password": "#password",
+    "profile": "li:has-text('Profile')"
+}

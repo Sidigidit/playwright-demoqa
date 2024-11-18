@@ -1,0 +1,9 @@
+{
+    "url" : "https://demoqa.com/",
+    "username" : "user123!",
+    "emailuser" : "user123@email.com",
+    "password" : "User123!",
+    "userId":"020dd625-e14d-40a1-8699-584fc2900c25",
+    "enpointBooks": "https://demoqa.com/BookStore/v1/Books",
+    "fileName": "response.json"
+}
